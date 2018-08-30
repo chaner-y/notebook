@@ -1,0 +1,21 @@
+
+封装：路由
+
+router("/a", function(request, response){
+	response.end("a页面");
+})
+
+router("/b", function(request, response){
+	response.end("b页面");
+})
+
+
+
+封装：post数据
+
+post()
+
+
+
+
+
